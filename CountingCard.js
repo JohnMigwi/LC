@@ -22,8 +22,7 @@ function cc(card) {
             break;
     }
 
-  return count + ( count > 0 ? ' Bet' : ' Hold');
-  // Only change code above this line
+ 
 }
 console.log(cc('A'));
 //TESTS
