@@ -7,3 +7,5 @@ function countDown(n) {
       return numbers;
     }
   }
+
+  //im done with the red flags
