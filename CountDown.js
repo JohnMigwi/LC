@@ -8,4 +8,4 @@ function countDown(n) {
     }
   }
 
-  //the problem is me
+  //the problem is me, cant even help myself
